@@ -9,3 +9,4 @@ ChatGPT API for generating the response.
 FreeTTS (OpenSource) for converting the response text into speech.
 
 While there is room for improvement in the speech output, I was pleasantly surprised by how easily these tools integrated together. I am extremely satisfied with the results!
+Built using Maven.
